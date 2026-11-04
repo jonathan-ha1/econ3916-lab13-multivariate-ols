@@ -1,4 +1,4 @@
-# econ3916-lab13-multivariate-ols# Multivariate OLS — What "Controlling For" Actually Does
+# Multivariate OLS — What "Controlling For" Actually Does
 
 ## Objective
 I used simulated data with a known truth to show what adding a control to a regression actually does, when it removes bias, and when it creates it.
